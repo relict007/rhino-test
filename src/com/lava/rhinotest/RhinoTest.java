@@ -1,5 +1,5 @@
 
-package com.lava.rhino-test;
+package com.lava.rhinotest;
 
 import android.app.Activity;
 import android.content.ComponentName;
@@ -28,7 +28,7 @@ public class RhinoTest extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.default);
+        setContentView(R.layout.layout);
         
     }
 }
